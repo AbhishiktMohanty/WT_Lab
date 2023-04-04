@@ -1,0 +1,34 @@
+body {
+    /* background-color: rgb(3, 119, 236); */
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #55ba58;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+table.head {
+    text-align: center;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.links{
+    padding-left: 4rem;
+    background-color: rgb(161, 255, 182);
+}
+.content{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: rgb(161, 255, 182);
+}
+h3{
+    text-align: center;
+}
+
